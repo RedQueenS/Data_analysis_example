@@ -7,4 +7,4 @@ def load_data(filepath):
     return data
 
 # Load data
-data = load_data('data/gene_expression.csv')
+data = load_data('data/genes.csv')
