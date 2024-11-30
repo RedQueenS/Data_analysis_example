@@ -9,7 +9,7 @@ y = np.sin(x)                # Sine wave values for the x range
 # Create a plot
 plt.figure(figsize=(8, 6))  # Set figure size
 plt.plot(x, y, label='Sine Wave')  # Plot the sine wave
-plt.title('Sine Wave Plot')        # Add a title
+plt.title('Sine Wave Plot from ChatGPT')        # Add a title
 plt.xlabel('X-axis')               # Label the x-axis
 plt.ylabel('Y-axis')               # Label the y-axis
 plt.legend()                       # Add a legend
