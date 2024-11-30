@@ -5,7 +5,7 @@ import numpy as np
 # Generate sample data
 x = np.linspace(0, 10, 100)  # 100 evenly spaced values from 0 to 10
 y = np.sin(x)                # Sine wave values for the x range
-
+###############################################################???????##########
 # Create a plot
 plt.figure(figsize=(8, 6))  # Set figure size
 plt.plot(x, y, label='Sine Wave')  # Plot the sine wave
